@@ -4,7 +4,7 @@ title = 'Writen By Oppenheimer.com'
 theme = "dream"
 
 
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 googleAnalytics = "UA-98295641-1"
 
