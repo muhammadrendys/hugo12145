@@ -22,7 +22,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
   background = "#fff"
   backgroundImage = "/me/anders-jilden-vhnG50rQtUk-unsplash.jpg"
-  linkColor = "seagreen"
+  linkColor = "black"
 
   # dark mode
   # defaultDark = true
@@ -94,4 +94,4 @@ home = ["HTML", "RSS", "JSON"]
 
 [params.experimental]
   jsDate = true
-  jsDateFormat = "yyyy年MM月dd日"
+  jsDateFormat = "yyyy-MM-dd"
