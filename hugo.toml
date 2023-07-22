@@ -80,5 +80,5 @@ home = ["HTML", "RSS", "JSON"]
 
 [params.experimental]
   jsDate = true
-  jsDateFormat = "yyyy年MM月dd日"
-  # jsDateFormat = "yyyy年MM月dd日，cccc"
+  jsDateFormat = "yyyyMMdd"
+  # jsDateFormat = "yyyyMMdd"
