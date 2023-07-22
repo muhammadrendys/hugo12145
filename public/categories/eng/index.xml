@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENG on Writen By Oppenheimer.com</title>
+    <link>http://example.org/categories/eng/</link>
+    <description>Recent content in ENG on Writen By Oppenheimer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 23:54:31 +0800</lastBuildDate><atom:link href="http://example.org/categories/eng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Transformation With R</title>
+      <link>http://example.org/posts/data_transformation/</link>
+      <pubDate>Fri, 21 Jul 2023 23:54:31 +0800</pubDate>
+      
+      <guid>http://example.org/posts/data_transformation/</guid>
+      <description>5.1 Pendahuluan Visualisasi adalah alat yang penting untuk menghasilkan wawasan, tetapi jarang sekali Anda mendapatkan data dalam bentuk yang tepat seperti yang Anda butuhkan. Sering kali Anda perlu membuat beberapa variabel atau ringkasan baru, atau mungkin Anda hanya ingin mengganti nama variabel atau menyusun ulang pengamatan untuk membuat data lebih mudah digunakan. Anda akan belajar bagaimana melakukan semua itu (dan banyak lagi!) dalam bab ini, yang akan mengajarkan Anda bagaimana mengubah data Anda menggunakan paket dplyr dan set data baru pada penerbangan yang berangkat dari New York City pada tahun 2013.</description>
+    </item>
+    
+  </channel>
+</rss>

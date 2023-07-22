@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>禅修 on Writen By Oppenheimer.com</title>
+    <link>http://example.org/categories/%E7%A6%85%E4%BF%AE/</link>
+    <description>Recent content in 禅修 on Writen By Oppenheimer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Oct 2018 09:30:49 +0800</lastBuildDate><atom:link href="http://example.org/categories/%E7%A6%85%E4%BF%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>禅修二</title>
+      <link>http://example.org/posts/hello_world8/</link>
+      <pubDate>Mon, 29 Oct 2018 09:30:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world8/</guid>
+      <description>&lt;p&gt;记录一下我的丹东禅修之后的收获的东西，第二部分。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>禅修一</title>
+      <link>http://example.org/posts/hello_world9/</link>
+      <pubDate>Sat, 28 Apr 2018 11:08:58 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world9/</guid>
+      <description>&lt;p&gt;记录一下我的丹东禅修之后的收获的东西，第一部分。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

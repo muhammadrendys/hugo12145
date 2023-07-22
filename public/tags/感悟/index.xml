@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>感悟 on Writen By Oppenheimer.com</title>
+    <link>http://example.org/tags/%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 感悟 on Writen By Oppenheimer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 21:41:50 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%84%9F%E6%82%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>编程的正确性</title>
+      <link>http://example.org/posts/hello_world7/</link>
+      <pubDate>Thu, 07 May 2020 21:41:50 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world7/</guid>
+      <description>&lt;p&gt;The Worse is Better.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>禅修二</title>
+      <link>http://example.org/posts/hello_world8/</link>
+      <pubDate>Mon, 29 Oct 2018 09:30:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world8/</guid>
+      <description>&lt;p&gt;记录一下我的丹东禅修之后的收获的东西，第二部分。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>禅修一</title>
+      <link>http://example.org/posts/hello_world9/</link>
+      <pubDate>Sat, 28 Apr 2018 11:08:58 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world9/</guid>
+      <description>&lt;p&gt;记录一下我的丹东禅修之后的收获的东西，第一部分。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>白马</title>
+      <link>http://example.org/posts/hello_world10/</link>
+      <pubDate>Thu, 22 Feb 2018 21:19:51 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world10/</guid>
+      <description>&lt;p&gt;如果你深深爱着的人，却深深的爱上了别人，有什么法子？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understanding Computation 阅读有感</title>
+      <link>http://example.org/posts/hello_world6/</link>
+      <pubDate>Tue, 09 Jan 2018 14:00:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world6/</guid>
+      <description>&lt;p&gt;Understanding Computation: From Simple Machines to Impossible Programs.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

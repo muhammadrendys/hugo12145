@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Writen By Oppenheimer.com</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Writen By Oppenheimer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 21:52:44 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>年度</title>
+      <link>http://example.org/tags/%E5%B9%B4%E5%BA%A6/</link>
+      <pubDate>Tue, 05 Jan 2021 21:52:44 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E5%B9%B4%E5%BA%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>http://example.org/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 05 Jan 2021 21:52:44 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>感悟</title>
+      <link>http://example.org/tags/%E6%84%9F%E6%82%9F/</link>
+      <pubDate>Thu, 07 May 2020 21:41:50 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E6%84%9F%E6%82%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>技术</title>
+      <link>http://example.org/tags/%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Thu, 07 May 2020 21:41:50 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>赞赏</title>
+      <link>http://example.org/tags/%E8%B5%9E%E8%B5%8F/</link>
+      <pubDate>Mon, 03 Jun 2019 14:21:26 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E8%B5%9E%E8%B5%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby Lang</title>
+      <link>http://example.org/tags/ruby-lang/</link>
+      <pubDate>Tue, 09 Jan 2018 14:00:11 +0800</pubDate>
+      
+      <guid>http://example.org/tags/ruby-lang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

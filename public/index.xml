@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writen By Oppenheimer.com</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Writen By Oppenheimer.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 23:54:31 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buy Me A Coffee</title>
+      <link>http://example.org/posts/buy-me-a-coffee/</link>
+      <pubDate>Mon, 03 Jun 2019 14:21:26 +0800</pubDate>
+      
+      <guid>http://example.org/posts/buy-me-a-coffee/</guid>
+      <description>&lt;p&gt;If you like my work or find it helpful, please consider buying me a cup of coffee ☕️. It inspires me to create and maintain more projects in the future. 🦾&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Transformation With R</title>
+      <link>http://example.org/posts/data_transformation/</link>
+      <pubDate>Fri, 21 Jul 2023 23:54:31 +0800</pubDate>
+      
+      <guid>http://example.org/posts/data_transformation/</guid>
+      <description>5.1 Pendahuluan Visualisasi adalah alat yang penting untuk menghasilkan wawasan, tetapi jarang sekali Anda mendapatkan data dalam bentuk yang tepat seperti yang Anda butuhkan. Sering kali Anda perlu membuat beberapa variabel atau ringkasan baru, atau mungkin Anda hanya ingin mengganti nama variabel atau menyusun ulang pengamatan untuk membuat data lebih mudah digunakan. Anda akan belajar bagaimana melakukan semua itu (dan banyak lagi!) dalam bab ini, yang akan mengajarkan Anda bagaimana mengubah data Anda menggunakan paket dplyr dan set data baru pada penerbangan yang berangkat dari New York City pada tahun 2013.</description>
+    </item>
+    
+    <item>
+      <title>2020年的总结</title>
+      <link>http://example.org/posts/hello_world5/</link>
+      <pubDate>Tue, 05 Jan 2021 21:52:44 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world5/</guid>
+      <description>&lt;p&gt;2020 in a review.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>编程的正确性</title>
+      <link>http://example.org/posts/hello_world7/</link>
+      <pubDate>Thu, 07 May 2020 21:41:50 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world7/</guid>
+      <description>&lt;p&gt;The Worse is Better.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019年的总结</title>
+      <link>http://example.org/posts/hello_world4/</link>
+      <pubDate>Mon, 30 Dec 2019 21:24:06 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world4/</guid>
+      <description>&lt;p&gt;2019 in a review.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2018年的总结</title>
+      <link>http://example.org/posts/hello_world3/</link>
+      <pubDate>Mon, 31 Dec 2018 20:57:45 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world3/</guid>
+      <description>&lt;p&gt;我的 2018 年的总结。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>禅修二</title>
+      <link>http://example.org/posts/hello_world8/</link>
+      <pubDate>Mon, 29 Oct 2018 09:30:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world8/</guid>
+      <description>&lt;p&gt;记录一下我的丹东禅修之后的收获的东西，第二部分。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>禅修一</title>
+      <link>http://example.org/posts/hello_world9/</link>
+      <pubDate>Sat, 28 Apr 2018 11:08:58 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world9/</guid>
+      <description>&lt;p&gt;记录一下我的丹东禅修之后的收获的东西，第一部分。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>白马</title>
+      <link>http://example.org/posts/hello_world10/</link>
+      <pubDate>Thu, 22 Feb 2018 21:19:51 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world10/</guid>
+      <description>&lt;p&gt;如果你深深爱着的人，却深深的爱上了别人，有什么法子？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Understanding Computation 阅读有感</title>
+      <link>http://example.org/posts/hello_world6/</link>
+      <pubDate>Tue, 09 Jan 2018 14:00:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world6/</guid>
+      <description>&lt;p&gt;Understanding Computation: From Simple Machines to Impossible Programs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2017年的总结</title>
+      <link>http://example.org/posts/hello_world2/</link>
+      <pubDate>Sun, 31 Dec 2017 23:58:15 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world2/</guid>
+      <description>&lt;p&gt;2017 年的总结，在博客上记录一下。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2016年的总结</title>
+      <link>http://example.org/posts/hello_world1/</link>
+      <pubDate>Fri, 30 Dec 2016 22:36:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world1/</guid>
+      <description>&lt;p&gt;这是我在 2016 年底写的一些话，现在迁移到了博客上。加了一些批注。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
