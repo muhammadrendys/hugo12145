@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Writen By Oppenheimer.com'
+title = 'Writen By Oppenheimer.com, hello world'
 theme = "dream"
 
 
