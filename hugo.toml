@@ -1,0 +1,84 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Writen By Oppenheimer'
+theme = "dream"
+
+
+hasCJKLanguage = true
+
+googleAnalytics = "UA-98295641-1"
+
+# Paginate = 6
+
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+  background = "#fff"
+  backgroundImage = "/me/anders-jilden-vhnG50rQtUk-unsplash.jpg"
+  linkColor = "black"
+
+  # dark mode
+  # defaultDark = true
+  backgroundDark = "#333"
+  backgroundImageDark = "/me/wolfgang-hasselmann-eIY-J_goUwA-unsplash.jpg"
+  darkLinkColor = "white"
+  # darkNav = true
+  # dark404 = true
+
+  images = ["/me/wolfgang-hasselmann-eIY-J_goUwA-unsplash.jpg"]
+
+  author = "Oppenheimer"
+  description = "My Life Notes"
+  avatar = "/me/wip drawing.jpg"
+  headerTitle = "Oppenheimer"
+  motto = "Keep up the Spirit of Learning: Opening the Door to Infinite Knowledge"
+  # maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  # footerBottomText = ""
+
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "muhammadrenndysaputra16@gmail.com"
+
+  siteStartYear = 2016
+
+  favicon = "/Untitled-1.png"
+
+  highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
+
+  # search
+  enableSearch = true
+
+  # options
+  showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
+  fixedNav = true
+  transparentNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
+
+[params.advanced]
+  customCSS = ["css/custom.css"]
+  # customJSBefore = []
+  # customJS = []
+
+[params.experimental]
+  jsDate = true
+  jsDateFormat = "yyyy年MM月dd日"
+  # jsDateFormat = "yyyy年MM月dd日，cccc"
