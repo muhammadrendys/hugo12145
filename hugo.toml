@@ -92,6 +92,6 @@ home = ["HTML", "RSS", "JSON"]
   #   customJSBefore = []
   #   customJS = []
 
-#[params.experimental]
-#  jsDate = true
-#  jsDateFormat = "yyyy-MM-dd"
+[params.experimental]
+  jsDate = true
+  jsDateFormat = "yyyy年MM月dd日"
