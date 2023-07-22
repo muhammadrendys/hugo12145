@@ -1,5 +1,5 @@
 baseurl = "https://misteroppenheimer.netlify.app/"
-languageCode = "en"
+languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Writen By Oppenheimer.com"
 theme = "dream"
@@ -12,18 +12,25 @@ theme = "dream"
 
 # enableRobotsTXT = true
 
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 [params]
   background = "#f7f7f7"
   backgroundImage = "/me/anders-jilden-vhnG50rQtUk-unsplash.jpg"
   linkColor = "seagreen"
 
-  dark mode
-  defaultDark = true
+  # dark mode
+  # defaultDark = true
   backgroundDark = "black"
   backgroundImageDark = "/me/wolfgang-hasselmann-eIY-J_goUwA-unsplash.jpg"
   darkLinkColor = "darkseagreen"
-  darkNav = true
-  dark404 = true
+  # darkNav = true
+  # dark404 = true
 
   author = "Oppenheimer"
   description = "My life notes"
@@ -61,9 +68,9 @@ theme = "dream"
 
   highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  highlightjsExtraLanguages = ["ocaml"]
-  highlightjsTheme = "gruvbox-light"
-  highlightjsThemeDark = "gruvbox-dark"
+  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
 
   # search
   enableSearch = true
@@ -87,4 +94,4 @@ theme = "dream"
 
 [params.experimental]
   jsDate = true
-  jsDateFormat = "yyyyMMdd"
+  jsDateFormat = "yyyy年MM月dd日"
