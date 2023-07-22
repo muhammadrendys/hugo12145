@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://misteroppenheimer.netlify.app/'
 languageCode = 'en-us'
 title = 'Writen By Oppenheimer.com'
 theme = "dream"
