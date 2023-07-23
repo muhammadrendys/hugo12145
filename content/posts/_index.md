@@ -1,5 +1,5 @@
 ---
-title: 归档
+title: Archives
 ---
 
-所有文章的归档。
+Archive of all articles.

@@ -260,6 +260,9 @@ sendiri: & adalah “dan”, \| adalah “atau”, dan ! adalah “tidak”. Gam
 
 ![](/img/Data_transformation/transform-logical.png)
 
+<img src="/img/Data_transformation/transform-logical.png" alt="Image" width="300" height="200">
+
+
 Kode berikut ini menemukan semua penerbangan yang berangkat pada bulan
 November atau Desember:
 
