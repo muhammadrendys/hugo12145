@@ -258,7 +258,7 @@ Untuk jenis kombinasi lainnya, Anda harus menggunakan operator Boolean
 sendiri: & adalah “dan”, \| adalah “atau”, dan ! adalah “tidak”. Gambar
 5.1 menunjukkan set lengkap operasi Boolean.
 
-![](/img/Data_transformation/transform-logical.png)
+<img src="/img/Data_transformation/transform-logical.png" width="600px" height="300px" alt="Deskripsi Gambar" style="display: block; margin: 0 auto;">
 
 
 Kode berikut ini menemukan semua penerbangan yang berangkat pada bulan

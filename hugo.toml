@@ -27,7 +27,7 @@ home = ["HTML", "RSS", "JSON"]
   # dark mode
   # defaultDark = true
   backgroundDark = "#333"
-  backgroundImageDark = "/me/wolfgang-hasselmann-eIY-J_goUwA-unsplash.jpg"
+  backgroundImageDark = "/me/anders-jilden-vhnG50rQtUk-unsplash.jpg"
   darkLinkColor = "white"
   # darkNav = true
   # dark404 = true
